@@ -2,7 +2,7 @@
 
 An interactive 3D visualization tool for exploring Mandelbrot and Julia sets, built with Python, OpenGL, and PyQt5.
 
-![License](https://img.shields.io/github/license/melihcandemir/3d-fractal-explorer)
+![License](https://img.shields.io/github/license/melihcanndemir/3d-fractal-explorer)
 ![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
 ![OpenGL](https://img.shields.io/badge/OpenGL-3.3+-green.svg)
 
