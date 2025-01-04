@@ -31,7 +31,7 @@ numpy
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/3d-fractal-explorer.git
+git clone https://github.com/melihcanndemir/3d-fractal-explorer.git
 cd 3d-fractal-explorer
 ```
 
